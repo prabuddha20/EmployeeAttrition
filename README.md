@@ -1,6 +1,6 @@
 
 # PEOPLE ANALYTICS WITH ATTRITION PREDICTION
-![image.png](images/HRTalent.png)
+![image.png](https://empxtrack.com/wp-content/uploads/2016/06/employee-attrition.jpg)
 
 ## INTRODUCTION
 Every year a lot of companies hire a number of employees. The companies __invest__ time and money in __training__ those employees, not just this but there are __training programs__ within the companies for their existing employees as well. The __aim__ of these programs is to __increase the effectiveness__ of their employees. 
